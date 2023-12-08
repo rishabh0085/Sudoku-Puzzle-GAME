@@ -11,3 +11,7 @@ Sudoku is a popular number puzzle game that involves filling a 9x9 grid with dig
 3.Rules: The rules are simple. Each row, column, and 3x3 region must contain all the digits from 1 to 9, without any repetition.
 
 4.Logical Deduction: Solving Sudoku is a process of logical deduction. Players use elimination and placement techniques to figure out the correct numbers for each cell. Common strategies include scanning rows, columns, and regions for missing numbers and using process of elimination.
+
+#Tech Stack Used:
+
+JavaSwing, Java, OOPS concept, 2D-Arrays.
