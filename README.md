@@ -14,4 +14,18 @@ Sudoku is a popular number puzzle game that involves filling a 9x9 grid with dig
 
 #Tech Stack Used:
 
-JavaSwing, Java, OOPS concept, 2D-Arrays.
+-JavaSwing 
+
+-Java 
+
+-OOPS 
+
+-concept
+
+-2D-Arrays.
+
+
+#Screen Shots of Sudoku-Puzzle-GAME
+
+![Screenshot (14)](https://github.com/rishabh0085/Text-Editor/assets/52191143/bdcf3c61-4d1d-484f-b21d-fa76b46ea6aa)
+![Screenshot (16)](https://github.com/rishabh0085/Text-Editor/assets/52191143/0708e6e4-ab6f-46b2-b0ee-7a74ed8d646e)
